@@ -1,2 +1,2 @@
 # Bota-Pelota-
-Proyecto en OpenGL con movimiento de camara y movimiento con bezier
+No sirve este proyecto
